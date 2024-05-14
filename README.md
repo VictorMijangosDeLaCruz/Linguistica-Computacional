@@ -8,7 +8,7 @@ El curso de lingüística computacional busca presentar las herramientas fundame
    1. [Corpus](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/01%20Corpus.html)
 3. Perspectivas formales en lingüística computacional
    1. [Expresiones regulares](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/02%20RegularExpression.html)
-   2. [Transductores de estados finitos](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/03%20FiniteTransducer.html)
+   2. [Transductores de estados finitos](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/03%20FiniteTransducers.html)
    3. [Parseo de constituyentes con algoritmo CYK](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/04%20CYKParsing.html)
    4. [Parseo de dependencias](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/05%20DependencyParsing.html)
 5. Perspectivas estadísticas
@@ -29,7 +29,7 @@ El curso de lingüística computacional busca presentar las herramientas fundame
     5. [Modelo ELMo](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/25%20ELMo.html)
 13. Transformadores
     1. [Arquitectura de Transformador](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/26%20Transformer.html)
-    2. [Modelo BETO (BERT para español)](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/27%20BETO.html)
+    2. [Modelo BETO (BERT para español)](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/27%20BETOSpanishBERT.html)
 
 ------------------------------------------------------------------------------------
 <div style="text-align: right">Proyecto PAPIME PE102723</div>
