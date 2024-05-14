@@ -17,10 +17,19 @@ El curso de lingüística computacional busca presentar las herramientas fundame
    3. [Parseo probabilístico](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/06%20ProbabilisticParsing.html)
 7. Modelos del lenguaje de n-gramas
    1. [Modelo de bigramas](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/13%20BigramsLMEvaluation.html)
-   2. [Modelo de n-gramas](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/12%20NGramsLM.html)
+   2. [Modelo de n-gramas](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/12%20NgramsLM.html)
 9. Incrustaciones de palabras
-10. Modelos basados en redes recurrentes
-11. Transformadores
+    1. [Modelo Word2Vec](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/19%20Word2Vec.html)
+    2. [Modelo FastText](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/20%20FastText.html)
+11. Modelos basados en redes recurrentes
+    1. [Modelo del lenguaje con red recurrente](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/21%20RNNLanguageModel.html)
+    2. [Etiquetado POS con red recurrente](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/22%20RNNTaggingPOS.html)
+    3. [Modelo del lenguaje bidireccional](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/23%20BiRNN.html)
+    4. [Memorias a corto y largo plazo](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/24%20LSTM.html)
+    5. [Modelo ELMo](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/25%20ELMo.html)
+13. Transformadores
+    1. [Arquitectura de Transformador](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/26%20Transformer.html)
+    2. [Modelo BETO (BERT para español)](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/27%20BETO.html)
 
 ------------------------------------------------------------------------------------
 <div style="text-align: right">Proyecto PAPIME PE102723</div>
