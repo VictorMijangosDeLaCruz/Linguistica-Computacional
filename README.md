@@ -1,4 +1,6 @@
-# Lingüística Computaciona
+# Lingüística Computacional
+
+La <b>lingüística computacional</b> es una rama de la inteligencia artificial que se enfoca en el procesamiento de todas las manifestaciones del lenguaje natural por medio de técnicas computacionales. Una parte esencial de la lingüística computacional es el modelado matemático de los fenómenos lingüísticos para poder generar herramientas computacionales que sean capaz de procesarlos.
 
 El curso de lingüística computacional busca presentar las herramientas fundamentales de la lingüítica computacional y el procesamiento del lenguaje natural. De esta forma, se presentan los temas que abordan desde las perspectivas formales para el tratamiento del lenguaje natural, así como las herramientas estadísticas, hasta llegar a los modelos basados en redes neuronales que son actualmente estado del arte.
 
