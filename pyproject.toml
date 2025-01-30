@@ -1,0 +1,12 @@
+[project]
+name = "linguistica-computacional"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "elotl>=0.0.1.16",
+    "jupyterlab>=4.3.5",
+    "nltk>=3.9.1",
+    "rich>=13.9.4",
+]
