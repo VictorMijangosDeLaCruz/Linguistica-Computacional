@@ -8,9 +8,13 @@ dependencies = [
     "elotl>=0.0.1.16",
     "jupyter-ruff>=0.2.0",
     "jupyterlab>=4.3.5",
+    "jupyterlab-rise>=0.43.1",
+    "jupyterlab-vim>=4.1.4",
     "nltk>=3.9.1",
     "pandas>=2.2.3",
     "pip>=25.0.1",
     "rich>=13.9.4",
+    "scikit-learn>=1.6.1",
     "spacy>=3.8.4",
+    "transformers>=4.49.0",
 ]
