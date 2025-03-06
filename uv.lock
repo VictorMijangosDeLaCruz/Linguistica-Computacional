@@ -832,6 +832,15 @@ wheels = [
 ]
 
 [[package]]
+name = "jupyterlab-autodocstring"
+version = "0.1.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/85/f9/096f4e79ab0563aa5fa26da9a2ba2261c594a49db4aeb7730d65ca3442c6/jupyterlab_autodocstring-0.1.0.tar.gz", hash = "sha256:3aadcf081634552e2b7ab09fddda531f72f672aa04a60a5dcffc72b1e3713b13", size = 34046 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/40/68/cf3afe9d5b5b4acf8d102e664cfca239d7c34254cfdca58f3825cd480c1c/jupyterlab_autodocstring-0.1.0-py3-none-any.whl", hash = "sha256:236b964405a11654790ee57c3067530e3e3b7ad552f547a29ad661ba94476229", size = 40743 },
+]
+
+[[package]]
 name = "jupyterlab-mathjax3"
 version = "4.3.0"
 source = { registry = "https://pypi.org/simple" }
@@ -925,6 +934,7 @@ dependencies = [
     { name = "elotl" },
     { name = "jupyter-ruff" },
     { name = "jupyterlab" },
+    { name = "jupyterlab-autodocstring" },
     { name = "jupyterlab-rise" },
     { name = "jupyterlab-vim" },
     { name = "nltk" },
@@ -941,6 +951,7 @@ requires-dist = [
     { name = "elotl", specifier = ">=0.0.1.16" },
     { name = "jupyter-ruff", specifier = ">=0.2.0" },
     { name = "jupyterlab", specifier = ">=4.3.5" },
+    { name = "jupyterlab-autodocstring", specifier = ">=0.1.0" },
     { name = "jupyterlab-rise", specifier = ">=0.43.1" },
     { name = "jupyterlab-vim", specifier = ">=4.1.4" },
     { name = "nltk", specifier = ">=3.9.1" },

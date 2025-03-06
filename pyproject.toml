@@ -8,6 +8,7 @@ dependencies = [
     "elotl>=0.0.1.16",
     "jupyter-ruff>=0.2.0",
     "jupyterlab>=4.3.5",
+    "jupyterlab-autodocstring>=0.1.0",
     "jupyterlab-rise>=0.43.1",
     "jupyterlab-vim>=4.1.4",
     "nltk>=3.9.1",
