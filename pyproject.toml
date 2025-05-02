@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "elotl>=0.0.1.16",
+    "elotl>=0.1.1",
     "jupyter-ruff>=0.2.0",
     "jupyterlab>=4.3.5",
     "jupyterlab-autodocstring>=0.1.0",
