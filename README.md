@@ -17,6 +17,7 @@ El curso de lingüística computacional busca presentar las herramientas fundame
    1. [Ley de Zipf](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/09%20ZipfApproximation.html)
    2. [Modelo de unigramas con Zipf](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/10%20ZipfGeneration.html)
    3. [Parseo probabilístico](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/06%20ProbabilisticParsing.html)
+   4. [Tokenización estadística con BPE](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/07%bpe.html)
 7. [Modelos del lenguaje de n-gramas](https://victormijangosdelacruz.github.io/Linguistica-Computacional/Presentaciones/LC04__Modelos_del_lenguaje.pdf)
    1. [Modelo de bigramas](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/13%20BigramsLMEvaluation.html)
    2. [Modelo de n-gramas](https://victormijangosdelacruz.github.io/Linguistica-Computacional/html/12%20NgramsLM.html)
